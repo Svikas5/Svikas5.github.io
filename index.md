@@ -8,9 +8,19 @@ A professional authentication system features robustness and reliability, this i
 
 
 ```markdown
-# Zoo_Login_System (Check it out!!)
+# Zoo_Login_System 
+###(Check it out!!)
 
 **LOGIN**
+
+OLD Authentication System/Console based:
+
+![image](https://user-images.githubusercontent.com/49931875/90374662-b2205b00-e028-11ea-9dcb-c9d7eb9d1ad0.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90374624-a2a11200-e028-11ea-9e6e-d83811818fd8.png)
+
+NEW Updated System:
+
 ![image](https://user-images.githubusercontent.com/49931875/90349222-e6c2f100-dfed-11ea-80c1-8717c58da361.png)
 
 - Show password button reveals or hide the password.
@@ -26,6 +36,7 @@ Other cases:
 ![image](https://user-images.githubusercontent.com/49931875/90350144-04de2080-dff1-11ea-8fff-5558684f29da.png)
  
 **ADMIN SPACE**
+
 ![image](https://user-images.githubusercontent.com/49931875/90349548-1f16ff00-dfef-11ea-901b-68c2c130bc29.png)
 
 - Top left corner reflects the username and the date.
@@ -45,6 +56,7 @@ Other cases:
 
 
 **VETERINARIAN SPACE**
+
 ![image](https://user-images.githubusercontent.com/49931875/90349818-f9d6c080-dfef-11ea-8762-39bea20b6149.png)
 
 - Top left corner reflects the username and the date.
@@ -62,14 +74,25 @@ Other cases:
 
 
 **Database**
--Providing a screenshot of the database and the tables utilized in the project
+
+- Providing a screenshot of the database and the tables utilized in the project
+- Ignore some of the not allowed enteries in the database below as they were used while testing (They would be deleted eventually).
 
 ![image](https://user-images.githubusercontent.com/49931875/90350365-d280f300-dff1-11ea-85e7-f2e28720e1a8.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90373441-c400fe80-e026-11ea-8992-d7669b44986e.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90373510-db3fec00-e026-11ea-94ec-85e151e8fdb1.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90373709-34a81b00-e027-11ea-973b-f1d134cf8a84.png)
+
 
 **Code Review**
 
 - Code worked as intended it to be.
-- IndexOutofBoundException needs to be rectified, Emplpoyee ID info.
+- IndexOutofBoundException needs to be rectified, Emplpoyee ID info section. 
+- Primary key being wasted as the program runs, and some of the old entries would get deleted. It would result in primary keys released and unable to be reassigned due to their piculiar location. We need to ensure to keep track of which primary key gets released after deletion. The next allocation of the primary key should start with that instead of assigning a new primary key.
+- Appointment section, unable to come up with a alternative to having the right hand side box for only updating the appointment. We could use just one box instead, but that seems too careless. 
 - Was unable to asign foreign key to the tables, which would allow cross refrence functionality for connected tables.
 - Login button and Enter key functionality, makes the code redundant. Would like to reduce it to one instance and refrence it for the other.
 
