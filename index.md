@@ -66,6 +66,21 @@ Other cases:
 
 ![image](https://user-images.githubusercontent.com/49931875/90350365-d280f300-dff1-11ea-85e7-f2e28720e1a8.png)
 
+**Code Review**
+
+- Code worked as intended it to be.
+- IndexOutofBoundException needs to be rectified, Emplpoyee ID info.
+- Was unable to asign foreign key to the tables, which would allow cross refrence functionality for connected tables.
+- Login button and Enter key functionality, makes the code redundant. Would like to reduce it to one instance and refrence it for the other.
+
+
+**Improvement Plans**
+
+- Unable to assign the foreign key feature which would have allowed cross references to the tables easier.
+- Primary key feature allows us to keep track of the data, but it cerates an issue where deleted primary key entries are rendered useless if they are not towards the end of the data present in the table.
+- Had some issues with IndexOutofBound exceptions while working on Employee Id information, This could just be a minor glitch.
+- Wanted to incorporate otherr functioonalities, ranging from login time out function.
+- Creating a form which has all the information for the patients in one place in a form of a file, created chronologically.
 
 
 ### Support or Contact
