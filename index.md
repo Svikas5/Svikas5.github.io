@@ -89,7 +89,8 @@ Other cases:
 **Old Artifact Code Reviw**
 - Please click the link to review the Code Review video
 
-Video:
+Video (Copy and paste the link):
+
 https://drive.google.com/file/d/1KQ0BiHGfT3MANbzUPUngADEkGwTLG8Kr/view?usp=sharing
 
 **Code Review**
@@ -101,8 +102,9 @@ https://drive.google.com/file/d/1KQ0BiHGfT3MANbzUPUngADEkGwTLG8Kr/view?usp=shari
 - Was unable to asign foreign key to the tables, which would allow cross refrence functionality for connected tables.
 - Login button and Enter key functionality, makes the code redundant. Would like to reduce it to one instance and refrence it for the other.
 
-Video:
-https://drive.google.com/file/d/1LNWvw8ealI4wFs3l3QFYwdb0CZvYOrcm/view?usp=sharing
+Video (Copy and paste the link):
+
+https://drive.google.com/file/d/1wS37Q3H5YKqTh0uvOH5Pjo0jnxdPJxhj/view?usp=sharing
 
 **Improvement Plans**
 
