@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Vikas Sharma
 
-You can use the [editor on GitHub](https://github.com/Svikas5/Svikas5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The computer science program has been instrumental in laying down the best foundation possible to understand the fundamentals of computer and its computing capabilities. It provided opportunities to analyze complex computing problems and application of computing principles to understand solutions. It also facilitated in effectively communicating with the stakeholder to communicate the requirements. This helped in designing the solution and other aspects of the program. It further allowed to recognize professional responsibilities of an individual working in the field. This understanding grants better professional adherence to the field with respect to the legal and ethical aspect of it. It allowed better understanding regarding the software development process working with team irrespective of their location. The artifact enhanced accompanied better understanding of the skills already learned throughout the program. It was the first time working with the graphical interface, it allowed me to understand the necessary adaptation while transitioning to a specific aspect of a tool (NetBeans). The artifact enhancement project allowed me to get a better understanding and eventually resolving complex computing problem by breaking them down it into small easily resolvable tasks. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Zoo_Login_System (Upgrade)
 
-### Markdown
+A professional authentication system features robustness and reliability, this is the reason why information provided to get authenticated (Including other functionalities) is obligatory to be checked, compared, and measured to filter out any unauthorized activity (Inception of a Complex algorithm). Data is left ineffective if you cannot retrieve the saved data, thus data tagging allowed us to keep track of our data (Primary key feature was utilized for the purpose, which is unique for every entry). It grant us to retrieve information and saving new data into the table without any issues. The enhancement and the functionalities proposed for the artifact stipulated working with large number of data points, which were saved in different table’s appropriately. These tables along with supporting different functionalities of the artifact were connected with each other with a common columns (Common on the basis of the information they contained). These common columns could be manipulated to cross refer to these tables if needed to retrieve data.Working with these tables and the complex algorithm they supported allowed us to create a software which was functional, complex, reliable and robust for authenticating and also support other features of the artifact. The artifact is never finished as you have new features which you could incorporate into it and also our ever evolving understanding of the topic
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Zoo_Login_System (Check it out!!)
 
-# Header 1
-## Header 2
-### Header 3
+**LOGIN**
+![image](https://user-images.githubusercontent.com/49931875/90349222-e6c2f100-dfed-11ea-80c1-8717c58da361.png)
 
-- Bulleted
-- List
+- Show password button reveals or hide the password.
+- Color gives a visual cue to the user of their location.
+- You will get only '3' chances to get authenticated.
 
-1. Numbered
-2. List
+Other cases:
+  
+![image](https://user-images.githubusercontent.com/49931875/90350065-c2b4df00-dff0-11ea-916b-b2e82eb9ff95.png)
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/49931875/90350108-de1fea00-dff0-11ea-865c-7e75173e5a49.png)
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/49931875/90350144-04de2080-dff1-11ea-8fff-5558684f29da.png)
+ 
+**ADMIN SPACE**
+![image](https://user-images.githubusercontent.com/49931875/90349548-1f16ff00-dfef-11ea-901b-68c2c130bc29.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Top left corner reflects the username and the date.
+- Admin would atleast need the "Employee ID" to search their records.
+- Once the record is found, selecting the record in the table would populate the respective textfield (For reference).
+- To create a new "EMPLOYEE ID" you need to provide all the information mentioned in the form.
+- To update personal section of the emplyee you can select the button shown in the specific section of the user information.
+- Information would be updated depending on "Admin" selection.
 
-### Jekyll Themes
+Other cases:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Svikas5/Svikas5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://user-images.githubusercontent.com/49931875/90350208-36ef8280-dff1-11ea-8173-c4b6f558b814.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90350226-479ff880-dff1-11ea-83f9-bc39b87f4caa.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90350246-5686ab00-dff1-11ea-9722-54409bd2a961.png)
+
+
+**VETERINARIAN SPACE**
+![image](https://user-images.githubusercontent.com/49931875/90349818-f9d6c080-dfef-11ea-8762-39bea20b6149.png)
+
+- Top left corner reflects the username and the date.
+- Left hand side (red box) is the primary driver of the tab.
+- Right hanf side (green box) is only used in the process of updating an appoitment only.
+- Veterinarian would atleast need the "DOCTOR ID" to search all their appointments.
+- Specific information should be provided to find specific appointment.
+- Once the record is found, selecting the record in the table would populate the respective textfield (For reference).
+
+Other cases:
+
+![image](https://user-images.githubusercontent.com/49931875/90350293-8170ff00-dff1-11ea-8849-7e62fd99183b.png)
+
+![image](https://user-images.githubusercontent.com/49931875/90350316-9ea5cd80-dff1-11ea-9fa3-0801926e59b8.png)
+
+
+**Database**
+-Providing a screenshot of the database and the tables utilized in the project
+
+![image](https://user-images.githubusercontent.com/49931875/90350365-d280f300-dff1-11ea-85e7-f2e28720e1a8.png)
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please feel free to contact me for further queries or any question.
+Email: vikassharma12025@gmail.com
