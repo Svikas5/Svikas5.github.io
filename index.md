@@ -15,7 +15,7 @@ A professional authentication system features robustness and reliability, this i
 
 OLD Authentication System/Console based:
 
-<img src="![image](https://user-images.githubusercontent.com/49931875/90374662-b2205b00-e028-11ea-9dcb-c9d7eb9d1ad0.png)" alt="alt text" width="800" height="600">
+![image](https://user-images.githubusercontent.com/49931875/90374662-b2205b00-e028-11ea-9dcb-c9d7eb9d1ad0.png)
 
 ![image](https://user-images.githubusercontent.com/49931875/90374624-a2a11200-e028-11ea-9e6e-d83811818fd8.png)
 
@@ -32,9 +32,19 @@ Other cases:
   
 ![image](https://user-images.githubusercontent.com/49931875/90350065-c2b4df00-dff0-11ea-916b-b2e82eb9ff95.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90350108-de1fea00-dff0-11ea-865c-7e75173e5a49.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90350144-04de2080-dff1-11ea-8fff-5558684f29da.png)
+
+
+
+
  
 **ADMIN SPACE**
 
@@ -51,9 +61,18 @@ Other cases:
 
 ![image](https://user-images.githubusercontent.com/49931875/90350208-36ef8280-dff1-11ea-8173-c4b6f558b814.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90350226-479ff880-dff1-11ea-83f9-bc39b87f4caa.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90350246-5686ab00-dff1-11ea-9722-54409bd2a961.png)
+
+
+
 
 
 **VETERINARIAN SPACE**
@@ -71,7 +90,13 @@ Other cases:
 
 ![image](https://user-images.githubusercontent.com/49931875/90350293-8170ff00-dff1-11ea-8849-7e62fd99183b.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90350316-9ea5cd80-dff1-11ea-9fa3-0801926e59b8.png)
+
+
+
 
 
 **Database**
@@ -81,11 +106,24 @@ Other cases:
 
 ![image](https://user-images.githubusercontent.com/49931875/90350365-d280f300-dff1-11ea-85e7-f2e28720e1a8.png)
 
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90373441-c400fe80-e026-11ea-8992-d7669b44986e.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/49931875/90373510-db3fec00-e026-11ea-94ec-85e151e8fdb1.png)
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/49931875/90373709-34a81b00-e027-11ea-973b-f1d134cf8a84.png)
+
+
+
 
 **Old Artifact Code Reviw**
 - Please click the link to review the Code Review video
