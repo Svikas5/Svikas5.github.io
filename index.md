@@ -15,9 +15,9 @@ A professional authentication system features robustness and reliability, this i
 
 OLD Authentication System/Console based:
 
-![image](https://user-images.githubusercontent.com/49931875/90374662-b2205b00-e028-11ea-9dcb-c9d7eb9d1ad0.png)
+<img src="![image](https://user-images.githubusercontent.com/49931875/90374662-b2205b00-e028-11ea-9dcb-c9d7eb9d1ad0.png)" alt="alt text" width="800" height="600">
 
-<img align="right" width="100" height="100" src="![image](https://user-images.githubusercontent.com/49931875/90374624-a2a11200-e028-11ea-9e6e-d83811818fd8.png)">
+![image](https://user-images.githubusercontent.com/49931875/90374624-a2a11200-e028-11ea-9e6e-d83811818fd8.png)
 
 
 NEW Updated System:
